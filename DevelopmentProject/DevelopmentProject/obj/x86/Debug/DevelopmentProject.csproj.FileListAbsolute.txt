@@ -3,3 +3,16 @@ C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\b
 C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\DevelopmentProject.exe
 C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\DevelopmentProject.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Raven.Abstractions.dll
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\NLog.dll
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\AsyncCtpLibrary.dll
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\Raven.Abstractions.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\NLog.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\NLog.xml
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\AsyncCtpLibrary.xml
