@@ -1,0 +1,5 @@
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\DevelopmentProject.exe
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\bin\Debug\DevelopmentProject.pdb
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\DevelopmentProject.exe
+C:\Users\chim\Desktop\GitRepo\GitHub\Dev\DevelopmentProject\DevelopmentProject\obj\x86\Debug\DevelopmentProject.pdb
